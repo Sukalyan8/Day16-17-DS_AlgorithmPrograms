@@ -1,0 +1,16 @@
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\bin\Debug\net5.0\DS_Algorithm_Programs.exe
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\bin\Debug\net5.0\DS_Algorithm_Programs.deps.json
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\bin\Debug\net5.0\DS_Algorithm_Programs.runtimeconfig.json
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\bin\Debug\net5.0\DS_Algorithm_Programs.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\bin\Debug\net5.0\DS_Algorithm_Programs.dll
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\bin\Debug\net5.0\ref\DS_Algorithm_Programs.dll
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\bin\Debug\net5.0\DS_Algorithm_Programs.pdb
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\obj\Debug\net5.0\DS_Algorithm_Programs.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\obj\Debug\net5.0\DS_Algorithm_Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\obj\Debug\net5.0\DS_Algorithm_Programs.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\obj\Debug\net5.0\DS_Algorithm_Programs.AssemblyInfo.cs
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\obj\Debug\net5.0\DS_Algorithm_Programs.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\obj\Debug\net5.0\DS_Algorithm_Programs.dll
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\obj\Debug\net5.0\ref\DS_Algorithm_Programs.dll
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\obj\Debug\net5.0\DS_Algorithm_Programs.pdb
+C:\Users\Hp\source\repos\DS_Algorithm_Programs\obj\Debug\net5.0\DS_Algorithm_Programs.genruntimeconfig.cache
